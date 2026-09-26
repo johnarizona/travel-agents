@@ -1,0 +1,5 @@
+PDX->LAS 11/7
+https://www.alaskaair.com/search/results?O=PDX&D=LAS&OD=2026-11-07&A=2&RT=false&ShoppingMethod=onlineaward&locale=en-us
+
+LAS->PDX 11/8
+https://www.alaskaair.com/search/results?O=LAS&D=PDX&OD=2026-11-08&A=2&RT=false&ShoppingMethod=onlineaward&locale=en-us
